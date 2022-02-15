@@ -2,7 +2,7 @@ from data_manager import DataManager
 from flight_search import FlightSearch
 from notification_manager import NotificationManager
 
-
+# Input cities of interest, alongside price limits
 LOWEST_PRICES = [('ABV', 600), ('LOS', 600), ('PHC', 600)]
 
 # sheets_data = DataManager()
